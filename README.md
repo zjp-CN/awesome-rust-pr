@@ -14,3 +14,7 @@ The list of awesome PR in the Rust community
 
 ### Improved Ergonomics
 - []()
+
+### Improved STD
+
+- [2022-2] [Merge crossbeam-channel into std::sync::mpsc #93563](https://github.com/rust-lang/rust/pull/93563)
